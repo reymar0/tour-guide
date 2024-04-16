@@ -7,6 +7,7 @@
     android:background="@drawable/mainbg"
     tools:context=".MainActivity">
 
+    <!--  Reymar Villanueva   -->
 
     <GridLayout
         android:layout_width="match_parent"
